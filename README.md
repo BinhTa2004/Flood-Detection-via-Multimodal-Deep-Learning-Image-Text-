@@ -31,7 +31,7 @@ Clone the repository:
 git clone https://github.com/BinhTa2004/Flood-Detection.git
 cd Flood-Detection
 ```
-https://github.com/BinhTa2004/Flood-Detection-via-Multimodal-Deep-Learning-Image-Text-.git
+
 ---
 
 ## 📦 Data

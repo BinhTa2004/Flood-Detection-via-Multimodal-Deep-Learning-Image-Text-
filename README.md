@@ -38,6 +38,8 @@ cd Flood-Detection
 Due to size or licensing constraints, the dataset is not included in this repository.
 Please contact the author or refer to the competition/dataset source to obtain the data.
 
+Link: https://www.kaggle.com/datasets/binhhhhhhhhh/dpl-2025
+
 Once you have the data:
 * Place images in: data/images/
 * Place metadata (e.g. labels.csv) in: data/

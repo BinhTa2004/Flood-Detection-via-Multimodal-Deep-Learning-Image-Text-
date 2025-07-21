@@ -28,10 +28,10 @@ Developed a multimodal flood classification system using **Vision Transformer (V
 ## ⚙️ Setup
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/flood-classification.git
-cd flood-classification
+git clone https://github.com/BinhTa2004/Flood-Detection.git
+cd Flood-Detection
 ```
-
+https://github.com/BinhTa2004/Flood-Detection-via-Multimodal-Deep-Learning-Image-Text-.git
 ---
 
 ## 📦 Data

@@ -35,12 +35,16 @@ cd Flood-Detection
 ---
 
 ## 📦 Data
-Due to size or licensing constraints, the dataset is not included in this repository.
-Please contact the author or refer to the competition/dataset source to obtain the data.
+This project requires both image and text data:
+- **Images**: flood-related photos used for visual analysis.
+- **Text metadata**: accompanying information such as:
+  - `title`
+  - `description`
+  - `user_tags`
+  - `image_id` (used to match with image files)
+  - `label` (binary: 1 = flood, 0 = non-flood)
+
+Due to size or licensing restrictions, the dataset is not included.  
+Please refer to the competition or data source to obtain the full dataset.
 
 Link: https://www.kaggle.com/datasets/binhhhhhhhhh/dpl-2025
-
-Once you have the data:
-* Place images in: data/images/
-* Place metadata (e.g. labels.csv) in: data/
-
